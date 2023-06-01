@@ -1,4 +1,6 @@
 import React from 'react';
+import {} from './icons/bell.svg';
+
 function App() {
   return (
     <Navbar>
